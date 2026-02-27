@@ -12,7 +12,7 @@ export default function TabOneScreen() {
       <Text style={styles.header}>Diseño Móvil - React Native</Text>
 
       <WelcomeCard
-        userName="Jair Orellano"
+        userName="Jair Fernando Orellano"
         onGetStarted={handleStart}
       />
 
